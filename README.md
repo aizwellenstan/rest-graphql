@@ -1,4 +1,4 @@
-# React-graphql
+# Refined-graphql
 
 #Get Author
 {
